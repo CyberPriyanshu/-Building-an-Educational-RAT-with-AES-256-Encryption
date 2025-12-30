@@ -1,0 +1,2 @@
+# -Building-an-Educational-RAT-with-AES-256-Encryption
+Built educational RAT with AES-256 encryption: system recon, webcam, remote shell, encrypted C2. 100% test pass (9/9 features). Shows offensive/defensive security knowledge. Network programming, cryptography &amp; ethical research. Localhost-only for safe learning. Perfect for interviews! #CyberSecurity #Python #InfoSec #EthicalHacking #Portfolio
