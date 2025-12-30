@@ -1,0 +1,31 @@
+{
+    "server": {
+        "host": "127.0.0.1",
+        "port": 4444,
+        "buffer_size": 4096,
+        "timeout": 30,
+        "max_connections": 1
+    },
+    "client": {
+        "host": "127.0.0.1",
+        "port": 4444,
+        "reconnect_attempts": 3,
+        "reconnect_delay": 5
+    },
+    "security": {
+        "encryption_enabled": false,
+        "encryption_key": "YourSecretKey123"
+    },
+    "features": {
+        "screenshot": true,
+        "file_transfer": true,
+        "remote_shell": true,
+        "process_management": true,
+        "keylogger": false
+    },
+    "logging": {
+        "enabled": true,
+        "log_file": "rat_activity.log",
+        "log_level": "INFO"
+    }
+}
